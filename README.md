@@ -29,6 +29,7 @@
 - :zap: In my free time, I solve problems on Stackoverflow, mentor junior learners, read tech articles and watch tech content.
 
 - :mailbox:How to reach me: johnndigirigi01@gmail.com
+- 💻 Portfolio: ndigirigi.netlify.app
 
 
 <div>
