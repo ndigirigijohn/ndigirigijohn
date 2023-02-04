@@ -1,3 +1,3 @@
 <h1>
-I architect excellent software and write good code
+I architect excellent software and write code
   </h1>
