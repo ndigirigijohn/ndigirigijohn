@@ -11,7 +11,7 @@ I architect excellent software and write code
 
 
 
-- 👀 I’m interested web development and cross platform app development
-- 🌱 I’m currently advancing my skills on android development
+- 👀 I’m interested in everything web3, and cross platform app development
+- 🌱 I’m currently practicing fullstack web developmement
 
 
