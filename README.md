@@ -3,5 +3,6 @@ I'm a developer, I build fullstack web applications, cross platform applications
 I'm open to opportunities relating to:
 - Fullstack development with TypeScript, JavaScript, React js, Next js, React native, Node js, Express js .
 - Cardano blockchain based application development. ie Writing offchain code and working with Haskell and Aiken smart contracts.
+- Developing Self Sovereign Identity solutions.
 - Developing softwares with  TypeScript, JavaScript, and C# programming languages.
 
