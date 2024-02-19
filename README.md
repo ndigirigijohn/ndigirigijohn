@@ -4,5 +4,5 @@ I'm open to opportunities relating to:
 - Fullstack development with TypeScript, JavaScript, Python,  React js, Next js, React native, Node js, Express js , Fast API.
 - Cardano blockchain-based application development. ie Writing off-chain code and working with Haskell and Aiken smart contracts.
 - Developing Self Sovereign Identity solutions.
-- Developing software with  TypeScript, JavaScript, and Python programming languages.
+- Developing software with  TypeScript, JavaScript, C#, and Python programming languages.
 
