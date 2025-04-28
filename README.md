@@ -14,4 +14,3 @@ I build blockchain applications focusing on the Cardano ecosystem. My experience
 **Backend:** Node.js, Express, .NET, C#, Blazor  
 **Mobile:** React Native  
 
-I create practical blockchain applications that deliver both technical quality and seamless user experience.
