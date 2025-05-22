@@ -1,16 +1,12 @@
-# John Ndigirigi | Blockchain & Full-Stack Developer
-
-Specializing in Cardano smart contracts and decentralized identity solutions. Experienced in bridging distributed ledger technology with modern web frameworks.
+# John Ndigirigi | Software Engineer & Blockchain Specialist
+Experienced in modern software development and working on blockchain solutions. Currently specializing in Cardano smart contracts and decentralized applications.
 
 ## What I Do
-
-I build blockchain applications focusing on the Cardano ecosystem. My experience spans smart contract development and full-stack development with TypeScript, React, and Next.js. I work on DeFi applications and Self-Sovereign Identity solutions that put users in control of their digital assets and identity.
+I'm a software engineer with a focus on blockchain technology, currently working extensively with the Cardano ecosystem. My experience spans smart contract development and full-stack engineering with TypeScript, React, and Next.js. I work on DeFi applications and Self-Sovereign Identity solutions that deliver secure, user-controlled digital experiences.
 
 ## Tech Stack
-
 **Languages:** JavaScript, TypeScript, C#, Aiken, Rust  
 **Blockchain:** Cardano (Aiken), Ethereum (Solidity)  
 **Frontend:** React.js, Next.js, Svelte, TypeScript, JavaScript  
 **Backend:** Node.js, Express, .NET, C#, Blazor  
-**Mobile:** React Native  
-
+**Mobile:** React Native
