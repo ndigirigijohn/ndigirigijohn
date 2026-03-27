@@ -1,12 +1,15 @@
-# John Ndigirigi | Software Engineer & Blockchain Specialist
-Experienced in modern software development and working on blockchain solutions. 
+# John Ndigirigi | Software Engineer
+
+Focused on decentralised identity and blockchain infrastructure.
 
 ## What I Do
-I'm a software engineer with a focus on blockchain technology, currently working extensively with the Cardano ecosystem. My experience spans smart contract development and full-stack engineering with TypeScript, React, and Next.js. I work on DeFi applications and Self-Sovereign Identity solutions that deliver secure, user-controlled digital experiences.
 
-## Tech Stack
-**Languages:** JavaScript, TypeScript, C#, Aiken, Rust  
-**Blockchain:** Cardano (Aiken), Ethereum (Solidity)  
-**Frontend:** React.js, Next.js, Svelte, TypeScript, JavaScript  
-**Backend:** Node.js, Express, .NET, C#, Blazor  
-**Mobile:** React Native
+I build at the intersection of self-sovereign identity and blockchain. My current work centres on the KERI ecosystem — implementing SignifyTS, ACDC credentials, OOBI discovery, and vLEI interoperability. On the Cardano side, I write Aiken smart contracts for DeFi and data integrity applications.
+
+## Stack
+
+**Identity:** KERI, SignifyTS, ACDC, vLEI, DIDs, Verifiable Credentials, Atala PRISM  
+**Blockchain:** Cardano (Aiken), Midnight Network (Compact), Ethereum (Solidity)  
+**Languages:** TypeScript, JavaScript, Aiken, Rust, C#  
+**Frontend:** React, Next.js, Svelte  
+**Backend:** Node.js, Express, .NET
