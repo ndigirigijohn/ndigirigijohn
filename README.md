@@ -8,7 +8,7 @@ I build at the intersection of self-sovereign identity and blockchain. My curren
 
 ## Stack
 
-**Identity:** KERI, SignifyTS, ACDC, vLEI, DIDs, Verifiable Credentials, Atala PRISM  
+**Identity:** KERI, SignifyTS, ACDC, vLEI, DIDs, Verifiable Credentials, Identus  
 **Blockchain:** Cardano (Aiken), Midnight Network (Compact), Ethereum (Solidity)  
 **Languages:** TypeScript, JavaScript, Aiken, Rust, C#  
 **Frontend:** React, Next.js, Svelte  
