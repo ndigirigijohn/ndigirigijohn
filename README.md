@@ -10,6 +10,6 @@ I build at the intersection of self-sovereign identity and blockchain. My curren
 
 **Identity:** KERI, SignifyTS, ACDC, vLEI, DIDs, Verifiable Credentials, Identus  
 **Blockchain:** Cardano (Aiken), Midnight Network (Compact), Ethereum (Solidity)  
-**Languages:** TypeScript, JavaScript, Aiken, Rust, C#  
+**Languages:** TypeScript, JavaScript,Python, Aiken, C#  
 **Frontend:** React, Next.js, Svelte  
 **Backend:** Node.js, Express, .NET
