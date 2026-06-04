@@ -12,12 +12,12 @@ Full-stack software engineer building AI-powered products and distributed system
 
 ## Stack
 
-**AI & Agents:** LangGraph.js · OpenAI API · LLM Integration · Agentic Workflows · RAG Pipelines  
+**AI & Agents:** LangGraph.js · LLM Integration · Agentic Workflows · RAG Pipelines  
 **Identity & Trust:** KERI · SignifyTS · ACDC · vLEI / GLEIF · DIDs · W3C Verifiable Credentials  
 **Backend:** Node.js · TypeScript · Python · FastAPI · Fastify · PostgreSQL · Neo4j · Supabase  
 **Frontend & Mobile:** React · React Native · Next.js · Tailwind CSS  
 **Blockchain:** Aiken · Cardano / eUTxO · Lucid Evolution  
-**Infrastructure:** GCP · Docker · GitHub Actions · Railway · Vercel  
+**Infrastructure:** GCP · Docker · GitHub Actions · Railway · Vercel · AWS
 
 ## Links
 
