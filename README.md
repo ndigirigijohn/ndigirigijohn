@@ -8,7 +8,7 @@ Full-stack software engineer building AI-powered products and distributed system
 
 **[MavunoStudio](https://ndigirigijohn.dev/projects/mavuno-studio)** — AI-native farm operations platform. Farmers interact in natural language via WhatsApp; LangGraph.js agents handle marketing, buyer engagement, market intelligence, and payments via Masumi Network. Graph-modelled on Neo4j AuraDB.
 
-**[DIGN](https://dign.id)** — Browser-extension KERI identity wallet. Building workflow and demo sites for enterprise adoption, integration documentation, and interoperability research across vLEI, GLEIF, and Veridian.
+**[DIGN](https://dign.id)** — Browser-extension KERI identity wallet. Building workflow sites for enterprise adoption, integration documentation, and interoperability research across vLEI, GLEIF, and Veridian.
 
 ## Stack
 
